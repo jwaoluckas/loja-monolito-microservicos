@@ -1,0 +1,19 @@
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Ambiente / IDE / SO
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Bancos JSON gerados ao rodar o laboratório (recriados automaticamente)
+dados/
